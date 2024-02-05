@@ -1,6 +1,7 @@
 ﻿#pragma once
 #include "EVENT_CODE.h"
-class Event
+struct Event
 {
-	
+	EVENT_CODE code;
+
 };
