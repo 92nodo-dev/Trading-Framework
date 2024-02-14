@@ -5,3 +5,6 @@
 *.sln
 *.db-wal
 *.ipch
+Trading-Framework/.vs/Trading-Framework/v16/.suo
+*.filters
+*.user
