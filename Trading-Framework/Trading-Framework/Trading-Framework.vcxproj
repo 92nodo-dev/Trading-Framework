@@ -139,14 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="Dispatcher.h" />
     <ClInclude Include="Event.h" />
     <ClInclude Include="EVENT_CODE.h" />
     <ClInclude Include="Interface.h" />
     <ClInclude Include="Stock.h" />
+    <ClInclude Include="Strategy.h" />
+    <ClInclude Include="Testor.h" />
+    <ClInclude Include="Trader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
